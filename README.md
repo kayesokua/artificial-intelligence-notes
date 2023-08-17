@@ -1,8 +1,17 @@
 # AI Notes
 
-This repository contains basic implementations of AI applications.
+This repository contains basic implementations of AI applications for presentation/review purposes.
 
-* `Machine_learning.ipynb` covers examples for detecting anomalies using DBSCAN, obstacle detection using CNN, etc.
-* `Optimization.ipynb` covers techniques like Simulated Annealing, Hill Climbing, Gradient Descent, Genetic Algotihm, and Particle Swarm Optimization.
-* `Planning.ipynb` covers techniques like Forward and Backward State Space Planning.
-* `Reasoning.ipynb` explains deductive, inductive, common sense, monotonic and non-monotonic reasoning using the concept of a WeatherBot.
+1. `Machine_learning.ipynb`
+- Detecting Ride Anomalies Using DBSCAN
+- Obstacle Detection using CNN
+- Dance Classification with MobileNetV2, MediaPipe Pose, and DecisionTreeClassifier
+- Chat Recommendations with Decision Tree Classifier
+2. `Optimization.ipynb`
+- Pastry Box Generation: Simulated Annealing
+- Best Roundtrip: Hill Climbing
+- Gradient Descent for AND Operator
+- Schedule Planning with Genetic Algorithm
+- Sinusoidal Optimization: Particle Swarm Optimization
+3. `Planning.ipynb`: Robotic arm drink service application.
+4. `Reasoning.ipynb`: Deductive, inductive, and common-sense reasoning explored through a WeatherBot concept.
