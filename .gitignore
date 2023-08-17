@@ -1,3 +1,6 @@
 *.ipynb_checkpoints
 *.npy
 *.DS_Store
+*.h5
+*data/chatbot/
+*data/obstacle_detection/validate-images/*
